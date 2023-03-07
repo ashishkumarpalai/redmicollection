@@ -1,5 +1,6 @@
 # homereadme
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashishkumarpalai)]
 
 Software Engineer
 -----------------

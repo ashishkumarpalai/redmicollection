@@ -1,6 +1,3 @@
-# homereadme
-
-
 
 Hi 👋 My name is Ashish Kumar Palai
 ==============================

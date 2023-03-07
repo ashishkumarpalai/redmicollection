@@ -8,8 +8,7 @@ Software Engineer
 # Games-Wabot
 
 <a href="https://github.com/ashishkumarpalai"><img title="Forks" src="https://img.shields.io/github/forks/BochilGaming/games-wabot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/ashishkumarpalai"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/
-  ?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/BochilGaming/games-wabot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/BochilGaming/games-wabot?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/ashishkumarpalai"><img title="Stars" src="https://img.shields.io/github/stars/BochilGaming/games-wabot?label=Stars&color=yellow&style=flat-square"></a>
 <a href="https://github.com/ashishkumarpalai"><img title="Contributors" src="https://img.shields.io/github/contributors/BochilGaming/games-wabot?label=Contributors&color=blue&style=flat-square"></a>
 <a href="https://github.com/ashishkumarpalai"><img title="Issues" src="https://img.shields.io/github/issues/BochilGaming/games-wabot?label=Issues&color=success&style=flat-square"></a>
